@@ -12,9 +12,7 @@ __My Libraries__
 [hxTShopify ](https://nanjizal.github.io/hxTShopify/pages/)  Shopify 
 typedef for manipulating shopify stores via electron.  
   
-<object data="nanjizalHaxe/hxTShopifyDox.png" width="624" height="325">
-  <img src="/hxTShopifyDox.png" width="624" height="325">
-</object>  
+<img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxTShopifyDox.png" width="624" height="325"> 
   
   
   
