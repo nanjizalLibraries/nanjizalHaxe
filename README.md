@@ -37,7 +37,7 @@ Port and rework of canvas perspective plane.
   
 [kitGL ](https://nanjizal.github.io/kitGL/pages/index.html)  WebGL/GL setup helpers, used by trilateral but decoupled.  
   
-<img src="https://nanjizallibraries.github.io/nanjizalHaxe/kitGL3Dox.png" width="625" height="328"> 
+<img src="https://nanjizallibraries.github.io/nanjizalHaxe/kitGLDox.png" width="625" height="328"> 
     
 [ htmlHelper ](https://nanjizal.github.io/htmlHelper/pages/)  Html haxe quick start helpers.  
   
