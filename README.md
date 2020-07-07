@@ -19,6 +19,9 @@ typedef for manipulating shopify stores via electron.
 [trilateral3 ](https://nanjizal.github.io/trilateral3/pages/)
 Abstracted GL drawing engine, draws to Float32Array.  
   
+<img src="https://nanjizallibraries.github.io/nanjizalHaxe/trilateral3Dox.png" width="624" height="326"> 
+  
+    
 [hxSpiro2020 ](https://github.com/nanjizal/hxSpiro2020/) Port of Raph 
 Levin *Spiro* curve drawing, my third iteration.  
   
