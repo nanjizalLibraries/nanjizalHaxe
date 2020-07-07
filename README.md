@@ -14,6 +14,12 @@ __My Libraries__
 [hxTShopify ](https://nanjizal.github.io/hxTShopify/pages/)  Shopify 
 typedef for manipulating shopify stores via electron.  
   
+<object data="nanjizalHaxe/hxTShopifyDox.png" width="624" height="325">
+  <img src="/hxTShopifyDox.png" width="624" height="325">
+</object>  
+  
+  
+  
 [trilateral3 ](https://nanjizal.github.io/trilateral3/pages/)
 Abstracted GL drawing engine, draws to Float32Array.  
   
