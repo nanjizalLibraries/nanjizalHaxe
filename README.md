@@ -5,7 +5,10 @@ Nanjizal's haxe Libraries
 __My Libraries__
 
 [geom ](https://nanjizal.github.io/geom/pages/) Matrices, Vectors. 
+  
 DualQuaternion needs mods.  
+<img src="/geomDox.png" width="623" height="245">  
+  
   
 [hxTShopify ](https://nanjizal.github.io/hxTShopify/pages/)  Shopify 
 typedef for manipulating shopify stores via electron.  
