@@ -6,7 +6,7 @@ __My Libraries__
 
 [geom ](https://nanjizal.github.io/geom/pages/) Matrices, Vectors. 
 
-<img src="../nanjizalHaxe/geomDox.png" width="623" height="245">
+<img src="https://nanjizallibraries.github.io/nanjizalHaxe/geomDox.png" width="623" height="245">
   
   
 [hxTShopify ](https://nanjizal.github.io/hxTShopify/pages/)  Shopify 
