@@ -1,5 +1,6 @@
 # nanjizalHaxe
 Nanjizal's haxe Libraries
+[readme](https://nanjizallibraries.github.io/nanjizalHaxe/index.html)
 
 __My Libraries__
 
