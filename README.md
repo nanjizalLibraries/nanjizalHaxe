@@ -272,7 +272,7 @@ Jigsaw drawing engine
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/folderNode.png" width="299" height="139">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/folderNodeDox.png" width="299" height="139">  
 </p>
 </td></tr></table>
 Haxe Nodejs Tools for loading, saving and downloading files.  
