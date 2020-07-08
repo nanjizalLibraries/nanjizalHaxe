@@ -53,7 +53,7 @@ Abstracted GL drawing engine, draws to Float32Array.
      
   
 ## hxSpiro2020
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/hxSpiro2020/blob/master/LICENSE) [![Status: untested](https://img.shields.io/badge/status-untested-yellow.svg)]()  
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/hxSpiro2020/blob/master/LICENSE) [![Status: untested](https://img.shields.io/badge/status-untested-yellow.svg)](https://github.com/nanjizal/hxSpiro2020/)[![From Haxe: 4.2.1](https://img.shields.io/badge/From%20Haxe-4.2.1-orange.svg)]()      
 [![port: javascript](https://img.shields.io/badge/port-javascript-red.svg)](https://github.com/be5invis/libspiro-js) [![port: c#](https://img.shields.io/badge/port-c%23-blue.svg)](https://github.com/wieslawsoltes/SpiroNet) 
 <table><tr><td>
 <p align="center">  
@@ -69,28 +69,22 @@ Direct permission from Raph for my Haxe version to be MIT license.
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
      
     
-        
-  
-  
-  
-  
-  
-  
- 
-## hxSpiro2020
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
-[![port: javascript](https://img.shields.io/badge/port-javascript-red.svg)](https://github.com/be5invis/libspiro-js) [![port: c#](https://img.shields.io/badge/port-c%23-blue.svg)](https://github.com/wieslawsoltes/SpiroNet)    
-Port of Raph Levin *Spiro* curve drawing, my third iteration.  
-Direct permission from Raph for my Haxe version to be MIT license.   
-
-[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/hxSpiro2020/)
-
+         
 ## hxDaedalus
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
-[![port: actionscript3](https://img.shields.io/badge/port-actionscript3-yellow.svg)](https://code.google.com/archive/p/daedalus-lib/)  
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hxDaedalus/hxDaedalus/blob/master/LICENSE) [![Status: stable](https://img.shields.io/badge/status-stable-green.svg)](https://github.com/hxDaedalus)    
+[![port: actionscript3](https://img.shields.io/badge/port-actionscript3-yellow.svg)](https://code.google.com/archive/p/daedalus-lib/) <table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="312" height="162">  
+</p>
+</td></tr></table>
+Port of pathfinding triangulation in cooperation with **azrafe7**.
+  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/hxDaedalus)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://github.com/hxDaedalus/pages/) 
 
-[hxDaedalus ](https://github.com/hxDaedalus)Port of pathfinding 
-triangulation.
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+     
+    
   
 [latLongUK ](https://nanjizal.github.io/latLongUK/pages/index.html) Port 
 of Latitude & Longitude <> Ordnance Survey National
