@@ -6,9 +6,11 @@ __My Libraries__
 
 # [geom](https://github.com/nanjizal/geom/)    
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/geom/blob/master/LICENSE)  
+<table><tr><td>
 <p align="center">  
-   <img align="left" src="https://nanjizallibraries.github.io/nanjizalHaxe/geomDox.png" width="312" height="122">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/geomDox.png" width="312" height="122">  
 </p>
+</td></tr></table>
   
   
   
