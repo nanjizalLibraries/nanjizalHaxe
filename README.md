@@ -41,13 +41,19 @@ Shopify, ideal for private applications, typedef for manipulating shopify stores
      
    
 ## trilateral3
+<table><tr><td>
+<p align="center">
+<img width="300" align="left" alt="twolineswithlines" src="https://user-images.githubusercontent.com/20134338/49059216-b88cf480-f1ff-11e8-9d52-a82b7c07ae20.png"><img height="225" align="left" src="https://user-images.githubusercontent.com/20134338/49059509-40273300-f201-11e8-8437-559dd4f1cd79.jpg"><img height="225" align="left" alt="trilateralkiwi" src="https://user-images.githubusercontent.com/20134338/49064013-4fae7800-f211-11e8-8308-0a9bc75c871c.jpg"> 
+</p>
+</td></tr></table>  
+
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/trilateral3/blob/master/LICENSE) [![Status: stable wip](https://img.shields.io/badge/status-stable%20wip-green.svg)]() 
 [![From Haxe: 4.2.1](https://img.shields.io/badge/From%20Haxe-4.2.1-orange.svg)]()
 <table><tr><td>
 <p align="center">  
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/trilateral3Dox.png" width="312" height="163"> 
 </p>
-</td></tr></table>
+</td></tr></table>  
 Abstracted GL drawing engine, draws to Float32Array.    
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/trilateral3/)
