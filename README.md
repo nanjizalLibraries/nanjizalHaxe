@@ -13,11 +13,11 @@ Matrices, Vectors.
   
 #### Status  
    
-- <sup>Works well, have been DualQuaternion, and Quaternion have been looking at implementations for hxMath and some points have been raised so likely some changes need applying soon.<sup>   
-- <sup>Has some Unit Test coverage, could probably do with more.<sup>  
-- <sup>Some non-maths-y structures can be removed as they are now covered in dsHelper.<sup>    
-- <sup>haxelib needs updating soon.<sup>   
-- <sup>ga folder needs removing.<sup>  
+- Works well, have been DualQuaternion, and Quaternion have been looking at implementations for hxMath and some points have been raised so likely some changes need applying soon.     
+- Has some Unit Test coverage, could probably do with more.    
+- Some non-maths-y structures can be removed as they are now covered in dsHelper.    
+- haxelib needs updating soon.   
+- ga folder needs removing.  
    
 <img src="https://nanjizallibraries.github.io/nanjizalHaxe/geomDox.png" width="623" height="245">
   
