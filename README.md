@@ -1,3 +1,4 @@
+## Nanjizal Libraries
 [link](https://nanjizallibraries.github.io/nanjizalHaxe/index.html)
 
 # [geom](https://github.com/nanjizal/geom/)    
@@ -12,7 +13,20 @@ Matrices, Vectors.
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/geom/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/geom/pages/) [![link: haxelib](https://img.shields.io/badge/link-haxelib-EA8220.svg)](https://lib.haxe.org/p/geom/)
   
-    
+  
+# [hxTShopify](https://github.com/nanjizal/hxTShopify/)    
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/hxTShopify/blob/master/LICENSE) [![Status: stable old](https://img.shields.io/badge/status-stable%20old-yellow.svg)]() 
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxTShopifyDox.png" width="312" height="122">  
+</p>
+</td></tr></table>
+Shopify, ideal for private applications, typedef for manipulating shopify stores via electron.    
+
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/hxTShopify/)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxTShopify/pages/) 
+
+   
 ## hxTShopify
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
 Shopify, ideal for private applications, typedef for manipulating shopify stores via electron.  
