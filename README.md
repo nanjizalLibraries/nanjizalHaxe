@@ -143,7 +143,7 @@ WebGL/GL setup helpers, used by trilateral3 but decoupled.
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/kitGL/blob/master/LICENSE)
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/seperator.png" width="312" height="164">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/htmlHelperDox.png" width="203" height="152">  
 </p>
 </td></tr></table>
 Html haxe quick start helpers.
