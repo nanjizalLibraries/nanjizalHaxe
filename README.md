@@ -7,8 +7,9 @@ __My Libraries__
 ## geom  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  
 Matrices, Vectors. 
-  
-[documentation](https://nanjizal.github.io/geom/pages/), [source](https://github.com/nanjizal/geom/), [haxelib](https://lib.haxe.org/p/geom/)
+   
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/geom/)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/geom/pages/) [![link: haxelib](https://img.shields.io/badge/link-haxelib-orange.svg)](https://lib.haxe.org/p/geom/)  
   
 #### Status   
 - Works well, have been DualQuaternion, and Quaternion have been looking at implementations for hxMath and some points have been raised so likely some changes need applying soon. 
