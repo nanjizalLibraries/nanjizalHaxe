@@ -57,7 +57,7 @@ Abstracted GL drawing engine, draws to Float32Array.
 [![port: javascript](https://img.shields.io/badge/port-javascript-red.svg)](https://github.com/be5invis/libspiro-js) [![port: c#](https://img.shields.io/badge/port-c%23-blue.svg)](https://github.com/wieslawsoltes/SpiroNet) 
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxSpiroScreenShot.png" width="439" height="277">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxSpiroScreenShot.png" width="293" height="185">  
 </p>
 </td></tr></table>
 Port of Raph Levin *Spiro* curve drawing, my third iteration.  
