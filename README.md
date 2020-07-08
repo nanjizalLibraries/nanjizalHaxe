@@ -1,8 +1,7 @@
 [<img width="180" align="left" alt="jlmansismall3" src="https://user-images.githubusercontent.com/20134338/49196601-742a6180-f383-11e8-9394-3779f263d8d7.png">]() 
 # Nanjizal Libraries [->](https://nanjizallibraries.github.io/nanjizalHaxe/index.html) 
 
-[geom](/README.md#geom),[hxTShopify](/README.md#hxTShopify),[trilateral3](/README.md#trilateral3)  
-  
+[geom](/README.md#geom), [hxTShopify](/README.md#hxTShopify), [trilateral3](/README.md#trilateral3), [hxSpiro2020](/README.md#hxSpiro20202), [hxDaedalus](/README.md#hxDaedalus), [latLongUK](/README.md#latLongUK), [canvasImageTriangles](/README.md#canvasImageTriangles), [kitGL](/README.md#kitGL), [htmlHelper](/README.md.#htmlHelper), [dsHelper](/README.md#dsHelper), [fracs](/README.md#fracs), [justPath](/README.md#justPath), [justDrawing](/README.md#justDrawing), [pixelDrawing](/README.md#pixelDrawing), [pallette](/README.md#pallette), [jigsawX](/README.md#jigsawX), [folderNode](/README.md#folderNode), [folder](/README.md#folder), [hxPolyK](/README.md#hxPolyK), [triangulations](/README.md#triangulations), [hxRectPack2D](/README.md#hxRectPack2D), [nodule](/README.md#nodule). 
      
   
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
