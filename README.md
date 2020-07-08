@@ -317,7 +317,7 @@ Port of triangulation library does not support holes.
 Port of triangulation library rather slow, has Rupert Algorithm.
 
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/triangulations)
-[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/triangulationsWebGLtest/pages/index.html)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/triangulationsWebGLtest/Doc/pages/index.html)
 
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
 
