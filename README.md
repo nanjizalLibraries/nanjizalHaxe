@@ -138,8 +138,21 @@ WebGL/GL setup helpers, used by trilateral3 but decoupled.
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
     
     
-    
-[ htmlHelper ](https://nanjizal.github.io/htmlHelper/pages/)  Html haxe quick start helpers.  
+   
+## htmlHelper
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/kitGL/blob/master/LICENSE)
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/seperator.png" width="312" height="164">  
+</p>
+</td></tr></table>
+Html haxe quick start helpers.
+
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/htmlHelper)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/htmlHelper/pages/index.html) 
+
+
+[ htmlHelper ](https://nanjizal.github.io/htmlHelper/pages/)    
   
 [ dsHelper ](https://nanjizal.github.io/dsHelper/pages/index.html?v=1)   Data structures used with Trilateral, but decoupled.  
   
