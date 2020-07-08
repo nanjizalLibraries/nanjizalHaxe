@@ -91,14 +91,14 @@ Port of pathfinding triangulation in cooperation with **azrafe7**.
 [![port: python](https://img.shields.io/badge/port-python-green.svg)](https://scipython.com/book/chapter-2-the-core-python-language-i/additional-problems/converting-between-an-os-grid-reference-and-longitudelatitude/) 
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="312" height="162">  
+   <img src="https://nanjizal.github.io/latLongUKDox.png" width="312" height="162">  
 </p>
 </td></tr></table>
 Port of Latitude & Longitude <> Ordnance Survey National
 Grid reference system.  
   
-[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://nanjizal.github.io/latLongUK)
-[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/latLongUK/pages/index.html) 
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/latLongUK)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://www.github.com/nanjizal/latLongUK/pages/index.html) 
 
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
        
