@@ -172,14 +172,13 @@ Data structures used with Trilateral3, but decoupled.
   
 ## fracs
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/fracs/blob/master/LICENSE)  
-[![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)]
-()
+[![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)](http://www.mindspring.com/~alanh/fracs.html)  
 <table><tr><td>
 <p align="center">  
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="203" height="152">  
 </p>
 </td></tr></table>
-Port of fast decimial to fraction approximations with angle abstracts.
+Port of fast decimial to fraction approximations with angle abstracts. Used by Trilateral3.
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/fracs)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/fracs/pages/index.html)
