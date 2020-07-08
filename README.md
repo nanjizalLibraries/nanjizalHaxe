@@ -253,19 +253,52 @@ Color Pallette and ColorInt manipulator.
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
    
   
-[ jigsawX ](https://github.com/nanjizal/JigsawX) Jigsaw drawing engine.  
-
+## jigsawX
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/jigsawX/blob/master/LICENSE)  
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="254" height="156">  
+</p>
+</td></tr></table>
+Jigsaw drawing engine
+  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/jigsawX/pallette)
+ 
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+   
+  
 ## folderNode
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="254" height="156">  
+</p>
+</td></tr></table>
 Haxe Nodejs Tools for loading, saving and downloading files.  
   
-[ source ](https://nanjizal.github.io/folderNode/pages/index.html?i=1)   
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/folderNode)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/folderNode/pages/index.html)
+
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+  
+  
   
 ## folder
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-File and folder helpers for use with Haxe when processing images uses hxPixels and format.  
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="254" height="156">  
+</p>
+</td></tr></table>File and folder helpers for use with Haxe when processing images uses hxPixels and format.  
     
-[ folder ](https://github.com/nanjizal/folder) 
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/folder)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/folder/pages/index.html)
+
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+  
+    
+    
   
 ## hxPolyK
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
