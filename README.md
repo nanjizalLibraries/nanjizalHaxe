@@ -1,5 +1,12 @@
-## Nanjizal Libraries [->](https://nanjizallibraries.github.io/nanjizalHaxe/index.html)  
+[<img width="180" align="left" alt="jlmansismall3" src="https://user-images.githubusercontent.com/20134338/49196601-742a6180-f383-11e8-9394-3779f263d8d7.png">]() 
+# Nanjizal Libraries [->](https://nanjizallibraries.github.io/nanjizalHaxe/index.html) 
+
+**Nanjizal** has grown to the point where it is useful to have an overview of my libraries and helpers.
   
+  
+  
+  
+     
   
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
    
