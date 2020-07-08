@@ -75,7 +75,7 @@ Direct permission from Raph for my Haxe version to be MIT license.
 [![port: actionscript3](https://img.shields.io/badge/port-actionscript3-yellow.svg)](https://code.google.com/archive/p/daedalus-lib/) 
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="312" height="162">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxDaedalusScreenShot.png" width="300" height="187">  
 </p>
 </td></tr></table>
 Port of pathfinding triangulation in cooperation with **azrafe7**.
