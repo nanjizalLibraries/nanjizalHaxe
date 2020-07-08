@@ -3,8 +3,7 @@
 
 **Nanjizal** has grown to the point where it is useful to have an overview of my libraries and helpers.
   
-  
-  
+[hxTShopify](/README.md#hxTShopify)  
   
      
   
