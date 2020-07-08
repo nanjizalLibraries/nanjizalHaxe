@@ -1,7 +1,9 @@
-## Nanjizal Libraries
-[link](https://nanjizallibraries.github.io/nanjizalHaxe/index.html)
-
-# [geom](https://github.com/nanjizal/geom/)    
+## Nanjizal Libraries [->](https://nanjizallibraries.github.io/nanjizalHaxe/index.html)  
+  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
+# geom  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/geom/blob/master/LICENSE) [![Status: stable wip](https://img.shields.io/badge/status-stable%20wip-green.svg)]() 
 <table><tr><td>
 <p align="center">  
@@ -13,9 +15,7 @@ Matrices, Vectors.
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/geom/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/geom/pages/) [![link: haxelib](https://img.shields.io/badge/link-haxelib-EA8220.svg)](https://lib.haxe.org/p/geom/)  
   
- <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="100%" height="10">  
-</p>  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>  
   
 
 # [hxTShopify](https://github.com/nanjizal/hxTShopify/)    
