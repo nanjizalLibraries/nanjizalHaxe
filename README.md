@@ -60,8 +60,8 @@ Abstracted GL drawing engine, draws to Float32Array.
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxSpiroScreenShot.png" width="439" height="277">  
 </p>
 </td></tr></table>
-Port of Raph Levin *Spiro* curve drawing, my third iteration.  
-Direct permission from Raph for my Haxe version to be MIT license. 
+Port of Raph Levin *Spiro* curve drawing, my third iteration.    
+Direct permission from Raph for my Haxe version to be MIT license.   
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/hxSpiro2020/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxSpiro2020/pages/) 
