@@ -88,7 +88,7 @@ Port of pathfinding triangulation in cooperation with **azrafe7**.
   
 ## latLongUK
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/latLongUK/blob/master/LICENSE) [![Status: stable](https://img.shields.io/badge/status-stable-green.svg)](https://nanjizal.github.io/latLongUK)    
-[![port: python](https://img.shields.io/badge/port-python-green.svg)](https://nanjizal.github.io/latLongUK) 
+[![port: python](https://img.shields.io/badge/port-python-green.svg)](https://scipython.com/book/chapter-2-the-core-python-language-i/additional-problems/converting-between-an-os-grid-reference-and-longitudelatitude/) 
 <table><tr><td>
 <p align="center">  
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="312" height="162">  
