@@ -18,7 +18,7 @@ Matrices, Vectors.
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/hxTShopify/blob/master/LICENSE) [![Status: stable old](https://img.shields.io/badge/status-stable%20old-yellow.svg)]() 
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxTShopifyDox.png" width="312" height="122">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxTShopifyDox.png" width="312" height="162">  
 </p>
 </td></tr></table>
 Shopify, ideal for private applications, typedef for manipulating shopify stores via electron.    
