@@ -7,7 +7,7 @@ __My Libraries__
 # [geom](https://github.com/nanjizal/geom/)  
 
 <p align="center">
-   <img align="right" src="https://nanjizallibraries.github.io/nanjizalHaxe/geomDox.png" width="312" height="122">
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/geomDox.png" width="312" height="122">
 </p>  
 Matrices, Vectors.   
   
