@@ -187,13 +187,71 @@ Port of fast decimial to fraction approximations with angle abstracts. Used by T
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
       
   
-[ justPath ](https://github.com/nanjizal/justPath) Quick parsing of a string from an svg path.  
+## justPath
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/justPath/blob/master/LICENSE)
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="203" height="152">  
+</p>
+</td></tr></table>
+Quick parsing of a string from an svg path. 
   
-[ justDrawing ](https://github.com/nanjizal/justDrawing) Provides simple drawing abstraction over haxe toolkits include canvas, svg and pixel support.  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/justPath)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/justPath/pages/index.html)
+ 
   
-[ pixelDrawing ](https://github.com/nanjizal/pixelDrawing) Provides simple approach to drawing with pixels uses hxPixels and Bresenham port.  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+      
   
-[ pallette ](https://nanjizal.github.io/pallette/pages/) Color Pallette and ColorInt manipulator.  
+## justDrawing
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/justDrawing/blob/master/LICENSE)
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="203" height="152">  
+</p>
+</td></tr></table>
+Provides simple drawing abstraction over haxe toolkits include canvas, svg and pixel support.   
+  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/justDrawing)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/justDrawing/pages/index.html)
+ 
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+  
+  
+  
+  
+## pixelDrawing
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/pixelDrawing/blob/master/LICENSE) [![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)]()  
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="203" height="152">  
+</p>
+</td></tr></table>
+Provides simple approach to drawing with pixels uses hxPixels and Bresenham port.    
+  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/pixelDrawing)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/pixelDrawing/pages/index.html)
+ 
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+  
+  
+## pallette
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/pallette/blob/master/LICENSE) [![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)]()  
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="203" height="152">  
+</p>
+</td></tr></table>
+Color Pallette and ColorInt manipulator.    
+  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/pallette)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/pallette/pages/index.html)
+ 
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+   
   
 [ jigsawX ](https://github.com/nanjizal/JigsawX) Jigsaw drawing engine.  
 
