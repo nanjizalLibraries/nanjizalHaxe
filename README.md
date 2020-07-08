@@ -258,7 +258,7 @@ Color Pallette and ColorInt manipulator.
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/jigsawX/blob/master/LICENSE)  
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/jigsawxScreenshot.png" width="467" height="255">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/jigsawxScreenshot.png" width="311" height="170">  
 </p>
 </td></tr></table>
 Jigsaw drawing engine
