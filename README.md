@@ -220,8 +220,6 @@ Provides simple drawing abstraction over haxe toolkits include canvas, svg and p
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
   
   
-  
-  
 ## pixelDrawing
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/pixelDrawing/blob/master/LICENSE) [![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)]()  
 <table><tr><td>
@@ -313,8 +311,7 @@ Port of triangulation library does not support holes.
 
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
   
-  
-  
+    
 ## triangulations
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/triangulations/blob/master/LICENSE) 
 <table><tr><td>
@@ -333,7 +330,7 @@ Port of triangulation library rather slow, has Rupert Algorithm.
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/hxRectPack2D/blob/master/LICENSE)
  <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/seperator.png" width="309" height="156">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/rectPack2dScreenshot.png" width="335" height="140">  
 </p>
 </td></tr></table> 
 Port of lightweight Rectangle packer with TP support. 
