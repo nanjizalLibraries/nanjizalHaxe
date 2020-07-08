@@ -3,14 +3,16 @@ Nanjizal's haxe Libraries
 [readme](https://nanjizallibraries.github.io/nanjizalHaxe/index.html)
 
 __My Libraries__
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/geom/blob/master/LICENSE)
-# [geom](https://github.com/nanjizal/geom/)  
 
-<p align="center">
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/geomDox.png" width="312" height="122">
-</p>  
-Matrices, Vectors.   
+# [geom](https://github.com/nanjizal/geom/)    
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/geom/blob/master/LICENSE)  
+<p align="center">  
+   <img align="left" src="https://nanjizallibraries.github.io/nanjizalHaxe/geomDox.png" width="312" height="122">  
+</p>
   
+  
+  
+Matrices, Vectors.    
 
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/geom/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/geom/pages/) [![link: haxelib](https://img.shields.io/badge/link-haxelib-EA8220.svg)](https://lib.haxe.org/p/geom/)  
