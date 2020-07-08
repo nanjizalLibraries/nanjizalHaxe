@@ -263,7 +263,7 @@ Color Pallette and ColorInt manipulator.
 </td></tr></table>
 Jigsaw drawing engine
   
-[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/jigsawX/pallette)
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/jigsawX/)
  
   
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
