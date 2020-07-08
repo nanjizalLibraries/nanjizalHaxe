@@ -1,4 +1,4 @@
-# [Nanjizal Libraries for Haxe](https://nanjizallibraries.github.io/nanjizalHaxe/index.html)
+[link](https://nanjizallibraries.github.io/nanjizalHaxe/index.html)
 
 # [geom](https://github.com/nanjizal/geom/)    
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/geom/blob/master/LICENSE) [![Status: stable wip](https://img.shields.io/badge/status-stable%20wip-green.svg)]() 
