@@ -18,8 +18,9 @@ Matrices, Vectors.
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/geom/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/geom/pages/) [![link: haxelib](https://img.shields.io/badge/link-haxelib-EA8220.svg)](https://lib.haxe.org/p/geom/)  
   
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>  
-[^](/README.md#nanjizal-libraries--)  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
+[back to top](/README.md#nanjizal-libraries--)  
 
 ## hxTShopify
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/hxTShopify/blob/master/LICENSE) [![Status: stable old](https://img.shields.io/badge/status-stable%20old-yellow.svg)]() 
