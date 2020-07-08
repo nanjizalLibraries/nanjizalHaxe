@@ -45,7 +45,8 @@ Abstracted GL drawing engine, draws to Float32Array.
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/trilateral3/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/trilateral3/pages/) 
-
+[![link: history](https://img.shields.io/badge/link-history-yellowgreen.svg)](https://trilateralx.github.io/TrilateralDemos/)
+[![link: demo](https://img.shields.io/badge/link-demo-blueviolet.svg)](https://github.com/TrilateralX/TrilateralSamples)  
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
      
      
