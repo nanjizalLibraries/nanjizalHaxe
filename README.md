@@ -140,7 +140,7 @@ WebGL/GL setup helpers, used by trilateral3 but decoupled.
     
    
 ## htmlHelper
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/kitGL/blob/master/LICENSE)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/kitGL/blob/master/LICENSE) 
 <table><tr><td>
 <p align="center">  
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/htmlHelperDox.png" width="203" height="152">  
@@ -149,14 +149,44 @@ WebGL/GL setup helpers, used by trilateral3 but decoupled.
 Html haxe quick start helpers.
 
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/htmlHelper)
-[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/htmlHelper/pages/index.html) 
-
-
-[ htmlHelper ](https://nanjizal.github.io/htmlHelper/pages/)    
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/htmlHelper/pages/index.html) [link: haxelib](https://img.shields.io/badge/link-haxelib-EA8220.svg)](https://lib.haxe.org/p/htmlHelper/)  
   
-[ dsHelper ](https://nanjizal.github.io/dsHelper/pages/index.html?v=1)   Data structures used with Trilateral, but decoupled.  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+     
+   
+## dsHelper
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/dsHelper/blob/master/LICENSE) 
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="203" height="152">  
+</p>
+</td></tr></table>
+Data structures used with Trilateral3, but decoupled.  
+   
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/dsHelper)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/dsHelper/pages/index.html)
+ 
   
-[ fracs ](https://github.com/nanjizal/fracs) Port of fast decimial to fraction approximations with angle abstracts.  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+     
+  
+## fracs
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/fracs/blob/master/LICENSE)  
+[![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)]
+()
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="203" height="152">  
+</p>
+</td></tr></table>
+Port of fast decimial to fraction approximations with angle abstracts.
+  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/fracs)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/fracs/pages/index.html)
+ 
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+      
   
 [ justPath ](https://github.com/nanjizal/justPath) Quick parsing of a string from an svg path.  
   
