@@ -34,10 +34,12 @@ Shopify, ideal for private applications, typedef for manipulating shopify stores
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/hxTShopify/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxTShopify/pages/) 
-
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
-     
+  
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
    
+  
 ## trilateral3
 <table><tr><td>
 <p align="center">
@@ -59,9 +61,10 @@ Abstracted GL drawing engine, draws to Float32Array.
 [![link: history](https://img.shields.io/badge/link-history-yellowgreen.svg)](https://trilateralx.github.io/TrilateralDemos/)
 [![link: demo](https://img.shields.io/badge/link-demo-blueviolet.svg)](https://github.com/TrilateralX/TrilateralSamples)  
   
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
-     
-     
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
   
 ## hxSpiro2020
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/hxSpiro2020/blob/master/LICENSE)  [![Status: untested](https://img.shields.io/badge/status-untested-yellow.svg)](https://github.com/nanjizal/hxSpiro2020/) [![From Haxe: 4.2.1](https://img.shields.io/badge/From%20Haxe-4.2.1-orange.svg)](https://github.com/nanjizal/hxSpiro2020/)      
@@ -77,11 +80,12 @@ Direct permission from Raph for my Haxe version to be MIT license.
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/hxSpiro2020/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxSpiro2020/pages/) 
-
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
-     
-    
-         
+  
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
+        
 ## hxDaedalus
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hxDaedalus/hxDaedalus/blob/master/LICENSE) [![Status: stable](https://img.shields.io/badge/status-stable-green.svg)](https://github.com/hxDaedalus)    
 [![port: actionscript3](https://img.shields.io/badge/port-actionscript3-yellow.svg)](https://code.google.com/archive/p/daedalus-lib/) 
@@ -94,10 +98,11 @@ Port of pathfinding triangulation in cooperation with *azrafe7*.
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/hxDaedalus)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://github.com/hxDaedalus/pages/) 
-
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
-     
-    
+  
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
   
 ## latLongUK
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/latLongUK/blob/master/LICENSE) [![Status: stable](https://img.shields.io/badge/status-stable-green.svg)](https://nanjizal.github.io/latLongUK)    
@@ -112,10 +117,11 @@ Grid reference system.
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/latLongUK)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/latLongUK/pages/index.html) 
-
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
-       
   
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
   
 ## canvasImageTriangles
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/canvasImageTriangles/blob/master/LICENSE)  
@@ -129,11 +135,12 @@ Port and rework of canvas perspective plane.
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/canvasImageTriangle)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/canvasImageTriangle/pages/index.html) 
-
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
-    
-    
-    
+  
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
+   
 ## kitGL
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/kitGL/blob/master/LICENSE)  [![Status: wip](https://img.shields.io/badge/status-wip-yellow.svg)]() 
 [![From Haxe: 4.2.1](https://img.shields.io/badge/From%20Haxe-4.2.1-orange.svg)]()  
@@ -147,10 +154,12 @@ WebGL/GL setup helpers, used by trilateral3 but decoupled.
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/kitGL)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/kitGL/pages/index.html) 
   
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
-    
-    
+  
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
    
+  
 ## htmlHelper
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/kitGL/blob/master/LICENSE) 
 <table><tr><td>
@@ -163,8 +172,10 @@ Html haxe quick start helpers.
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/htmlHelper)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/htmlHelper/pages/index.html) [![link: haxelib](https://img.shields.io/badge/link-haxelib-EA8220.svg)](https://lib.haxe.org/p/htmlHelper/)  
   
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
-     
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
    
 ## dsHelper
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/dsHelper/blob/master/LICENSE) 
@@ -177,10 +188,11 @@ Data structures used with Trilateral3, but decoupled.
    
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/dsHelper)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/dsHelper/pages/index.html)
- 
   
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
-     
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
   
 ## fracs
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/fracs/blob/master/LICENSE)  
@@ -194,10 +206,11 @@ Port of fast decimial to fraction approximations with angle abstracts. Used by T
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/fracs)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/fracs/pages/index.html)
- 
   
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
-      
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
   
 ## justPath
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/justPath/blob/master/LICENSE)
@@ -210,10 +223,11 @@ Quick parsing of a string from an svg path.
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/justPath)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/justPath/pages/index.html)
- 
   
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
-      
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
   
 ## justDrawing
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/justDrawing/blob/master/LICENSE)
@@ -226,10 +240,11 @@ Provides simple drawing abstraction over haxe toolkits include canvas, svg and p
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/justDrawing)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/justDrawing/pages/index.html)
- 
   
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+[<-top](/README.md#nanjizal-libraries--)  
   
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
   
 ## pixelDrawing
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/pixelDrawing/blob/master/LICENSE) [![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)]()  
@@ -242,10 +257,11 @@ Provides simple approach to drawing with pixels uses hxPixels and Bresenham port
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/pixelDrawing)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/pixelDrawing/pages/index.html)
- 
   
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+[<-top](/README.md#nanjizal-libraries--)  
   
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
   
 ## pallette
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/pallette/blob/master/LICENSE)  
@@ -258,9 +274,10 @@ Color Pallette and ColorInt manipulator.
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/pallette)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/pallette/pages/index.html)
- 
   
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
    
   
 ## jigsawX
@@ -273,9 +290,10 @@ Color Pallette and ColorInt manipulator.
 Jigsaw drawing engine
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/jigsawX/)
- 
   
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
    
   
 ## folderNode
@@ -289,7 +307,9 @@ Haxe Nodejs Tools for loading, saving and downloading files.
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/folderNode)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/folderNode/pages/index.html)
-
+  
+[<-top](/README.md#nanjizal-libraries--)  
+  
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
    
   
@@ -304,9 +324,11 @@ File and folder helpers for use with Haxe when processing images uses hxPixels a
     
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/folder)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/folder/pages/index.html)
-
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
   
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
   
 ## hxPolyK
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/hxPolyK/blob/master/LICENSE)  
@@ -319,10 +341,12 @@ Port of triangulation library does not support holes.
 
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/hxPolyK)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxPolyK/doc/pages/index.html)
-
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
   
-    
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
+  
 ## triangulations
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/triangulations/blob/master/LICENSE) 
 <table><tr><td>
@@ -334,9 +358,12 @@ Port of triangulation library rather slow, has Rupert Algorithm.
 
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/triangulations)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/triangulationsWebGLtest/doc/pages/index.html)
-
+  
+[<-top](/README.md#nanjizal-libraries--)  
+  
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
-
+   
+  
 ## hxRectPack2D
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/hxRectPack2D/blob/master/LICENSE)
  <table><tr><td>
@@ -349,8 +376,10 @@ Port of lightweight Rectangle packer with TP support.
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/hxRectPack2D)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxRectPack2D/doc/pages/index.html)
   
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>  
+[<-top](/README.md#nanjizal-libraries--)  
   
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
   
 ## nodule
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/nodule/blob/master/LICENSE)
@@ -364,8 +393,11 @@ XML parser ( to Linked List ), similar parse, faster access.
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/Nodule)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/Nodule/doc/pages/index.html)
   
-<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
   
+[<-top](/README.md#nanjizal-libraries--)  
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
   
 ## simpleText
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/simpleText/blob/master/LICENSE) 
@@ -378,5 +410,9 @@ Rough textField implementation for Kha could be abstracted to WebGL as works on 
     
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/simpleText)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/simpleText/pages/index.html)
-
+  
+[<-top](/README.md#nanjizal-libraries--)  
+  
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+   
+  
