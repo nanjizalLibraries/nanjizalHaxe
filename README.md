@@ -123,7 +123,8 @@ Port and rework of canvas perspective plane.
     
     
 ## kitGL
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/kitGL/blob/master/LICENSE) 
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/kitGL/blob/master/LICENSE)  [![Status: wip](https://img.shields.io/badge/status-wip-yellow.svg)]() 
+[![From Haxe: 4.2.1](https://img.shields.io/badge/From%20Haxe-4.2.1-orange.svg)]()  
 <p align="center">  
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/kitGLDox.png" width="312" height="164">  
 </p>
