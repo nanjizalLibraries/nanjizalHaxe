@@ -86,9 +86,23 @@ Port of pathfinding triangulation in cooperation with **azrafe7**.
      
     
   
-[latLongUK ](https://nanjizal.github.io/latLongUK/pages/index.html) Port 
-of Latitude & Longitude <> Ordnance Survey National
+## latLongUK
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/latLongUK/blob/master/LICENSE) [![Status: stable](https://img.shields.io/badge/status-stable-green.svg)](https://nanjizal.github.io/latLongUK)    
+[![port: python](https://img.shields.io/badge/port-python-green.svg)](https://nanjizal.github.io/latLongUK) 
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="312" height="162">  
+</p>
+</td></tr></table>
+Port of Latitude & Longitude <> Ordnance Survey National
 Grid reference system.  
+  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://nanjizal.github.io/latLongUK)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/latLongUK/pages/index.html) 
+
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+       
+  
   
 [canvasImageTriangles ](https://github.com/nanjizal/canvasImageTriangle) 
 Port and rework of canvas perspective plane.  
