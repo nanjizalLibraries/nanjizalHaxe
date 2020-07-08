@@ -4,20 +4,40 @@ Nanjizal's haxe Libraries
 
 __My Libraries__
 
-[geom ](https://nanjizal.github.io/geom/pages/) Matrices, Vectors. 
-
+## geom  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+Matrices, Vectors. 
+  
+[documentation](https://nanjizal.github.io/geom/pages/), [source](https://github.com/nanjizal/geom/), [haxelib](https://lib.haxe.org/p/geom/)
+  
+#### Status   
+- Works well, have been DualQuaternion, and Quaternion have been looking at implementations for hxMath and some points have been raised so likely some changes need applying soon. 
+- Has some Unit Test coverage, could probably do with more. 
+- Some non-maths-y structures can be removed as they are now covered in dsHelper.  
+- haxelib needs updating soon.
+- ga folder needs removing.
+  
 <img src="https://nanjizallibraries.github.io/nanjizalHaxe/geomDox.png" width="623" height="245">
   
+## hxTShopify
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+Shopify, ideal for private applications, typedef for manipulating shopify stores via electron.  
   
-[hxTShopify ](https://nanjizal.github.io/hxTShopify/pages/)  Shopify 
-typedef for manipulating shopify stores via electron.  
+[documentation](https://nanjizal.github.io/hxTShopify/pages/) [source](https://github.com/nanjizal/hxTShopify/)   
+
+#### Status
+ - The library is over a year old, without sponsorship I am unsure I can justify keeping it up to date with Shopify. Would be keen to work with Shopify dev to keep it a useful option, some of the official tools especially in js space are bloated.    
   
 <img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxTShopifyDox.png" width="624" height="325"> 
   
-  
-  
-[trilateral3 ](https://nanjizal.github.io/trilateral3/pages/)
+## trilateral3  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 Abstracted GL drawing engine, draws to Float32Array.  
+[documentation](https://nanjizal.github.io/trilateral3/pages/), [source](https://github.com/nanjizal/trilateral3/), [history - overview](https://trilateralx.github.io/TrilateralDemos/), [test demos wip](https://github.com/TrilateralX/TrilateralSamples)
+  
+### Status  
+ - Actively improving, have added features towards basic texture support, unsure if ready for haxelib yet.
+ - Uses quite a few helper libraries approach needs more consideration. 
   
 <img src="https://nanjizallibraries.github.io/nanjizalHaxe/trilateral3Dox.png" width="624" height="326"> 
   
