@@ -241,7 +241,7 @@ Provides simple approach to drawing with pixels uses hxPixels and Bresenham port
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/pallette/blob/master/LICENSE) [![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)]()  
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="203" height="152">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/palletteDox.png" width="254" height="156">  
 </p>
 </td></tr></table>
 Color Pallette and ColorInt manipulator.    
