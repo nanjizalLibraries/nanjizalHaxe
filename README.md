@@ -18,7 +18,7 @@ Matrices, Vectors.
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>  
   
 
-# [hxTShopify](https://github.com/nanjizal/hxTShopify/)    
+# hxTShopify
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/hxTShopify/blob/master/LICENSE) [![Status: stable old](https://img.shields.io/badge/status-stable%20old-yellow.svg)]() 
 <table><tr><td>
 <p align="center">  
