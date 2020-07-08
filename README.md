@@ -5,7 +5,7 @@ Nanjizal's haxe Libraries
 __My Libraries__
 
 ## geom  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  
 Matrices, Vectors. 
   
 [documentation](https://nanjizal.github.io/geom/pages/), [source](https://github.com/nanjizal/geom/), [haxelib](https://lib.haxe.org/p/geom/)
@@ -74,18 +74,45 @@ Port and rework of canvas perspective plane.
 [ pallette ](https://nanjizal.github.io/pallette/pages/) Color Pallette and ColorInt manipulator.  
   
 [ jigsawX ](https://github.com/nanjizal/JigsawX) Jigsaw drawing engine.  
-  
-[ folderNode ](https://nanjizal.github.io/folderNode/pages/index.html?i=1) Haxe Nodejs Tools for loading, saving and downloading files.  
-  
-[ folder ](https://github.com/nanjizal/folder) File and folder helpers for use with Haxe when processing images uses hxPixels and format.  
-  
-[ hxPolyK ](https://github.com/nanjizal/hxPolyK) Port of triangulation library does not support holes.  
-  
-[ triangulations ](https://rawgit.com/nanjizal/triangulationsWebGLtest/master/doc/pages/index.html) Port of triangulation library rather slow, has Rupert Algorithm.  
-  
-[ hxRectPack ](https://github.com/nanjizal/hxRectPack2D) Port of lightweight Rectangle packer with TP support.  
 
-[ nodule ](https://github.com/nanjizal/Nodule) XML parser ( to Linked List 
-), similar parse, faster access.  
+## folderNode
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  
+Haxe Nodejs Tools for loading, saving and downloading files.  
   
-[ simpleText ](https://github.com/nanjizal/SimpleText) Rough textField implementation for Kha could be abstracted to WebGL as works on character level includes wrapping and highlighting.  
+[ source ](https://nanjizal.github.io/folderNode/pages/index.html?i=1)   
+  
+## folder
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+File and folder helpers for use with Haxe when processing images uses hxPixels and format.  
+    
+[ folder ](https://github.com/nanjizal/folder) 
+  
+## hxPolyK
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+Port of triangulation library does not support holes. 
+
+[ source ](https://github.com/nanjizal/hxPolyK)  
+
+## triangulations
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  
+Port of triangulation library rather slow, has Rupert Algorithm.  
+  
+[ source ](https://rawgit.com/nanjizal/triangulationsWebGLtest/master/doc/pages/index.html) 
+
+## hxRectPack2D
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+Port of lightweight Rectangle packer with TP support.  
+
+[ source ](https://github.com/nanjizal/hxRectPack2D) 
+
+## nodule
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+XML parser ( to Linked List ), similar parse, faster access. 
+   
+[ source ](https://github.com/nanjizal/Nodule) 
+
+## simpleText
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  
+Rough textField implementation for Kha could be abstracted to WebGL as works on character level includes wrapping and highlighting.  
+
+[ source ](https://github.com/nanjizal/SimpleText)   
