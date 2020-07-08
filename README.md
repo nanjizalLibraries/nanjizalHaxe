@@ -149,7 +149,7 @@ WebGL/GL setup helpers, used by trilateral3 but decoupled.
 Html haxe quick start helpers.
 
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/htmlHelper)
-[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/htmlHelper/pages/index.html) [link: haxelib](https://img.shields.io/badge/link-haxelib-EA8220.svg)](https://lib.haxe.org/p/htmlHelper/)  
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/htmlHelper/pages/index.html) [![link: haxelib](https://img.shields.io/badge/link-haxelib-EA8220.svg)](https://lib.haxe.org/p/htmlHelper/)  
   
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
      
