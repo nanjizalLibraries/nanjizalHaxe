@@ -3,7 +3,7 @@
   
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
    
-# geom  
+## geom  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/geom/blob/master/LICENSE) [![Status: stable wip](https://img.shields.io/badge/status-stable%20wip-green.svg)]() 
 <table><tr><td>
 <p align="center">  
@@ -18,7 +18,7 @@ Matrices, Vectors.
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>  
   
 
-# hxTShopify
+## hxTShopify
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/hxTShopify/blob/master/LICENSE) [![Status: stable old](https://img.shields.io/badge/status-stable%20old-yellow.svg)]() 
 <table><tr><td>
 <p align="center">  
@@ -33,7 +33,7 @@ Shopify, ideal for private applications, typedef for manipulating shopify stores
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
      
    
-# trilateral3
+## trilateral3
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/trilateral3/blob/master/LICENSE) [![Status: stable wip](https://img.shields.io/badge/status-stable%20wip-green.svg)]() 
 [![From Haxe: 4.2.1](https://img.shields.io/badge/From%20Haxe-4.2.1-orange.svg)]()
 <table><tr><td>
@@ -47,10 +47,28 @@ Abstracted GL drawing engine, draws to Float32Array.
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/trilateral3/pages/) 
 [![link: history](https://img.shields.io/badge/link-history-yellowgreen.svg)](https://trilateralx.github.io/TrilateralDemos/)
 [![link: demo](https://img.shields.io/badge/link-demo-blueviolet.svg)](https://github.com/TrilateralX/TrilateralSamples)  
+  
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
      
      
+  
+## hxSpiro2020
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/hxSpiro2020/blob/master/LICENSE) [![Status: untested](https://img.shields.io/badge/status-untested-yellow.svg)]()  
+[![port: javascript](https://img.shields.io/badge/port-javascript-red.svg)](https://github.com/be5invis/libspiro-js) [![port: c#](https://img.shields.io/badge/port-c%23-blue.svg)](https://github.com/wieslawsoltes/SpiroNet) 
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="312" height="162">  
+</p>
+</td></tr></table>
+Port of Raph Levin *Spiro* curve drawing, my third iteration.  
+Direct permission from Raph for my Haxe version to be MIT license. 
+  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/hxSpiro2020/)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxSpiro2020/pages/) 
+
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
      
+    
         
   
   
@@ -58,21 +76,7 @@ Abstracted GL drawing engine, draws to Float32Array.
   
   
   
-## trilateral3  
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
-Abstracted GL drawing engine, draws to Float32Array. 
-  
-[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/trilateral3/)
-[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/trilateral3/pages/) 
-
-[history - overview](https://trilateralx.github.io/TrilateralDemos/), [test demos wip](https://github.com/TrilateralX/TrilateralSamples)
-  
-### Status  
- - Actively improving, have added features towards basic texture support, unsure if ready for haxelib yet.
- - Uses quite a few helper libraries approach needs more consideration. 
-  
-<img src="https://nanjizallibraries.github.io/nanjizalHaxe/trilateral3Dox.png" width="624" height="326"> 
-  
+ 
 ## hxSpiro2020
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
 [![port: javascript](https://img.shields.io/badge/port-javascript-red.svg)](https://github.com/be5invis/libspiro-js) [![port: c#](https://img.shields.io/badge/port-c%23-blue.svg)](https://github.com/wieslawsoltes/SpiroNet)    
