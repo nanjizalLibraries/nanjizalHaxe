@@ -9,7 +9,7 @@ __My Libraries__
 Matrices, Vectors. 
    
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/geom/)
-[![link: documentation](https://img.shields.io/badge/link-documentation-E3F9C2.svg)](https://nanjizal.github.io/geom/pages/) [![link: haxelib](https://img.shields.io/badge/link-haxelib-EA8220.svg)](https://lib.haxe.org/p/geom/)  
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/geom/pages/) [![![![![link: haxelib](https://img.shields.io/badge/link-haxelib-EA8220.svg)](https://lib.haxe.org/p/geom/)  
   
 #### Status   
 - Works well, have been DualQuaternion, and Quaternion have been looking at implementations for hxMath and some points have been raised so likely some changes need applying soon. 
@@ -34,8 +34,12 @@ Shopify, ideal for private applications, typedef for manipulating shopify stores
   
 ## trilateral3  
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
-Abstracted GL drawing engine, draws to Float32Array.  
-[documentation](https://nanjizal.github.io/trilateral3/pages/), [source](https://github.com/nanjizal/trilateral3/), [history - overview](https://trilateralx.github.io/TrilateralDemos/), [test demos wip](https://github.com/TrilateralX/TrilateralSamples)
+Abstracted GL drawing engine, draws to Float32Array. 
+  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/trilateral3/)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/trilateral3/pages/) 
+
+[history - overview](https://trilateralx.github.io/TrilateralDemos/), [test demos wip](https://github.com/TrilateralX/TrilateralSamples)
   
 ### Status  
  - Actively improving, have added features towards basic texture support, unsure if ready for haxelib yet.
@@ -44,14 +48,16 @@ Abstracted GL drawing engine, draws to Float32Array.
 <img src="https://nanjizallibraries.github.io/nanjizalHaxe/trilateral3Dox.png" width="624" height="326"> 
   
 ## hxSpiro2020
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![port: javascript](https://img.shields.io/badge/port-javascript-red.svg)](https://github.com/be5invis/libspiro-js) [![port: c#](https://img.shields.io/badge/port-c%23-blue.svg)](https://github.com/wieslawsoltes/SpiroNet)    
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+[![port: javascript](https://img.shields.io/badge/port-javascript-red.svg)](https://github.com/be5invis/libspiro-js) [![port: c#](https://img.shields.io/badge/port-c%23-blue.svg)](https://github.com/wieslawsoltes/SpiroNet)    
 Port of Raph Levin *Spiro* curve drawing, my third iteration.  
 Direct permission from Raph for my Haxe version to be MIT license.   
 
-[source ](https://github.com/nanjizal/hxSpiro2020/)
- 
-[![port: actionscript3](https://img.shields.io/badge/port-actionscript3-yellow.svg)](https://code.google.com/archive/p/daedalus-lib/)  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/hxSpiro2020/)
 
+## hxDaedalus
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
+[![port: actionscript3](https://img.shields.io/badge/port-actionscript3-yellow.svg)](https://code.google.com/archive/p/daedalus-lib/)  
 
 [hxDaedalus ](https://github.com/hxDaedalus)Port of pathfinding 
 triangulation.
