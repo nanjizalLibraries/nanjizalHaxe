@@ -19,7 +19,7 @@ Matrices, Vectors.
 - haxelib needs updating soon.   
 - ga folder needs removing.  
    
-<img src="https://nanjizallibraries.github.io/nanjizalHaxe/geomDox.png" width="623" height="245">
+<img src="https://nanjizallibraries.github.io/nanjizalHaxe/geomDox.png" width="312" height="122">
   
 ## hxTShopify
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
