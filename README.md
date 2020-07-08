@@ -281,8 +281,7 @@ Haxe Nodejs Tools for loading, saving and downloading files.
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/folderNode/pages/index.html)
 
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
-  
-  
+   
   
 ## folder
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/folder/blob/master/LICENSE)
@@ -298,15 +297,23 @@ File and folder helpers for use with Haxe when processing images uses hxPixels a
 
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
   
-    
-    
   
 ## hxPolyK
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/hxPolyK/blob/master/LICENSE)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/hxPolyK/blob/master/LICENSE)  
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/seperator.png" width="309" height="156">  
+</p>
+</td></tr></table>  
 Port of triangulation library does not support holes. 
 
-[ source ](https://github.com/nanjizal/hxPolyK)  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/hxPolyK)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxPolyK/doc/pages/index.html)
 
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+  
+  
+  
 ## triangulations
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/triangulations/blob/master/LICENSE) 
 <table><tr><td>
@@ -321,23 +328,46 @@ Port of triangulation library rather slow, has Rupert Algorithm.
 
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
 
-
-[ source ](https://rawgit.com/nanjizal/triangulationsWebGLtest/master/doc/pages/index.html) 
-
 ## hxRectPack2D
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/hxRectPack2D/blob/master/LICENSE)
-Port of lightweight Rectangle packer with TP support.  
-
-[ source ](https://github.com/nanjizal/hxRectPack2D) 
-
+ <table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/seperator.png" width="309" height="156">  
+</p>
+</td></tr></table> 
+Port of lightweight Rectangle packer with TP support. 
+  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/hxRectPack2D)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxRectPack2D/doc/pages/index.html)
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>  
+  
+  
 ## nodule
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/nodule/blob/master/LICENSE)
-XML parser ( to Linked List ), similar parse, faster access. 
-   
-[ source ](https://github.com/nanjizal/Nodule) 
-
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/seperator.png" width="309" height="156">  
+</p>
+</td></tr></table>  
+XML parser ( to Linked List ), similar parse, faster access.
+  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/Nodule)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/Nodule/doc/pages/index.html)
+  
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+  
+  
 ## simpleText
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/simpleText/blob/master/LICENSE)  
-Rough textField implementation for Kha could be abstracted to WebGL as works on character level includes wrapping and highlighting.  
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/simpleText/blob/master/LICENSE) 
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="254" height="156">  
+</p>
+</td></tr></table>  
+Rough textField implementation for Kha could be abstracted to WebGL as works on character level includes wrapping and highlighting.
+    
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/simpleText)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/simpleText/pages/index.html)
 
-[ source ](https://github.com/nanjizal/SimpleText)   
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
