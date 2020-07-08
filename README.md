@@ -125,9 +125,11 @@ Port and rework of canvas perspective plane.
 ## kitGL
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/kitGL/blob/master/LICENSE)  [![Status: wip](https://img.shields.io/badge/status-wip-yellow.svg)]() 
 [![From Haxe: 4.2.1](https://img.shields.io/badge/From%20Haxe-4.2.1-orange.svg)]()  
+<table><tr><td>
 <p align="center">  
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/kitGLDox.png" width="312" height="164">  
 </p>
+</td></tr></table>
 WebGL/GL setup helpers, used by trilateral3 but decoupled.
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/kitGL)
