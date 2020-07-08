@@ -23,9 +23,10 @@ Matrices, Vectors.
 ## hxTShopify
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
 Shopify, ideal for private applications, typedef for manipulating shopify stores via electron.  
-  
-[documentation](https://nanjizal.github.io/hxTShopify/pages/) [source](https://github.com/nanjizal/hxTShopify/)   
 
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/hxTShopify/)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxTShopify/pages/)    
+  
 #### Status
  - The library is over a year old, without sponsorship I am unsure I can justify keeping it up to date with Shopify. Would be keen to work with Shopify dev to keep it a useful option, some of the official tools especially in js space are bloated.    
   
