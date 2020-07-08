@@ -34,7 +34,8 @@ Shopify, ideal for private applications, typedef for manipulating shopify stores
      
    
 # trilateral3
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/trilateral3/blob/master/LICENSE) [![Status: stable wip](https://img.shields.io/badge/status-stable%20wip-green.svg)]()[![Haxe Requirement: 4.2.1](https://https://img.shields.io/badge/Haxe%20Requirement-4.2.1-orange.svg)]()
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/trilateral3/blob/master/LICENSE) [![Status: stable wip](https://img.shields.io/badge/status-stable%20wip-green.svg)]() 
+[![From Haxe: 4.2.1](https://img.shields.io/badge/From%20Haxe-4.2.1-orange.svg)]()
 <table><tr><td>
 <p align="center">  
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/trilateral3Dox.png" width="312" height="163"> 
