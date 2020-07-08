@@ -72,7 +72,8 @@ Direct permission from Raph for my Haxe version to be MIT license.
          
 ## hxDaedalus
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hxDaedalus/hxDaedalus/blob/master/LICENSE) [![Status: stable](https://img.shields.io/badge/status-stable-green.svg)](https://github.com/hxDaedalus)    
-[![port: actionscript3](https://img.shields.io/badge/port-actionscript3-yellow.svg)](https://code.google.com/archive/p/daedalus-lib/) <table><tr><td>
+[![port: actionscript3](https://img.shields.io/badge/port-actionscript3-yellow.svg)](https://code.google.com/archive/p/daedalus-lib/) 
+<table><tr><td>
 <p align="center">  
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="312" height="162">  
 </p>
@@ -104,8 +105,23 @@ Grid reference system.
        
   
   
-[canvasImageTriangles ](https://github.com/nanjizal/canvasImageTriangle) 
-Port and rework of canvas perspective plane.  
+## canvasImageTriangles
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/canvasImageTriangles/blob/master/LICENSE)  
+[![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)]()  
+(<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="312" height="162">  
+</p>
+</td></tr></table>
+Port and rework of canvas perspective plane. 
+  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/canvasImageTriangle)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/canvasImageTriangle/pages/index.html) 
+
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+    
+    
+    
   
 [kitGL ](https://nanjizal.github.io/kitGL/pages/index.html)  WebGL/GL setup helpers, used by trilateral but decoupled.  
   
