@@ -4,20 +4,21 @@ Nanjizal's haxe Libraries
 
 __My Libraries__
 
-## geom  
+# [geom](https://github.com/nanjizal/geom/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  
 Matrices, Vectors. 
    
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/geom/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/geom/pages/) [![link: haxelib](https://img.shields.io/badge/link-haxelib-EA8220.svg)](https://lib.haxe.org/p/geom/)  
   
-#### Status   
-- Works well, have been DualQuaternion, and Quaternion have been looking at implementations for hxMath and some points have been raised so likely some changes need applying soon. 
-- Has some Unit Test coverage, could probably do with more. 
-- Some non-maths-y structures can be removed as they are now covered in dsHelper.  
-- haxelib needs updating soon.
-- ga folder needs removing.
-  
+#### Status  
+   
+- <sup>Works well, have been DualQuaternion, and Quaternion have been looking at implementations for hxMath and some points have been raised so likely some changes need applying soon.<sup>   
+- <sup>Has some Unit Test coverage, could probably do with more.<sup>  
+- <sup>Some non-maths-y structures can be removed as they are now covered in dsHelper.<sup>    
+- <sup>haxelib needs updating soon.<sup>   
+- <sup>ga folder needs removing.<sup>  
+   
 <img src="https://nanjizallibraries.github.io/nanjizalHaxe/geomDox.png" width="623" height="245">
   
 ## hxTShopify
