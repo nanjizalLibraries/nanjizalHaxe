@@ -158,7 +158,7 @@ Html haxe quick start helpers.
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/dsHelper/blob/master/LICENSE) 
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="203" height="152">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/dsHelper.png" width="304" height="160">  
 </p>
 </td></tr></table>
 Data structures used with Trilateral3, but decoupled.  
