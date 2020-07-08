@@ -269,7 +269,7 @@ Jigsaw drawing engine
    
   
 ## folderNode
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/folderNode/blob/master/LICENSE)  
 <table><tr><td>
 <p align="center">  
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/folderNodeDox.png" width="299" height="139">  
@@ -285,12 +285,13 @@ Haxe Nodejs Tools for loading, saving and downloading files.
   
   
 ## folder
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/folder/blob/master/LICENSE)
 <table><tr><td>
 <p align="center">  
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="254" height="156">  
 </p>
-</td></tr></table>File and folder helpers for use with Haxe when processing images uses hxPixels and format.  
+</td></tr></table>  
+File and folder helpers for use with Haxe when processing images uses hxPixels and format.  
     
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/folder)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/folder/pages/index.html)
@@ -301,31 +302,42 @@ Haxe Nodejs Tools for loading, saving and downloading files.
     
   
 ## hxPolyK
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/hxPolyK/blob/master/LICENSE)
 Port of triangulation library does not support holes. 
 
 [ source ](https://github.com/nanjizal/hxPolyK)  
 
 ## triangulations
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  
-Port of triangulation library rather slow, has Rupert Algorithm.  
-  
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/triangulations/blob/master/LICENSE) 
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="254" height="156">  
+</p>
+</td></tr></table>  
+Port of triangulation library rather slow, has Rupert Algorithm.
+
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/triangulations)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/triangulations/pages/index.html)
+
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
+
+
 [ source ](https://rawgit.com/nanjizal/triangulationsWebGLtest/master/doc/pages/index.html) 
 
 ## hxRectPack2D
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/hxRectPack2D/blob/master/LICENSE)
 Port of lightweight Rectangle packer with TP support.  
 
 [ source ](https://github.com/nanjizal/hxRectPack2D) 
 
 ## nodule
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/nodule/blob/master/LICENSE)
 XML parser ( to Linked List ), similar parse, faster access. 
    
 [ source ](https://github.com/nanjizal/Nodule) 
 
 ## simpleText
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/simpleText/blob/master/LICENSE)  
 Rough textField implementation for Kha could be abstracted to WebGL as works on character level includes wrapping and highlighting.  
 
 [ source ](https://github.com/nanjizal/SimpleText)   
