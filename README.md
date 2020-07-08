@@ -1,8 +1,4 @@
-# nanjizalHaxe
-Nanjizal's haxe Libraries
-[readme](https://nanjizallibraries.github.io/nanjizalHaxe/index.html)
-
-__My Libraries__
+# [Nanjizal Libraries for Haxe](https://nanjizallibraries.github.io/nanjizalHaxe/index.html)
 
 # [geom](https://github.com/nanjizal/geom/)    
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/geom/blob/master/LICENSE) [![Status: stable wip](https://img.shields.io/badge/status-stable%20wip-green.svg)]() 
@@ -11,23 +7,12 @@ __My Libraries__
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/geomDox.png" width="312" height="122">  
 </p>
 </td></tr></table>
-  
-  
-  
 Matrices, Vectors.    
 
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/geom/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/geom/pages/) [![link: haxelib](https://img.shields.io/badge/link-haxelib-EA8220.svg)](https://lib.haxe.org/p/geom/)
   
-#### Status  
-   
-- Works well, have been DualQuaternion, and Quaternion have been looking at implementations for hxMath and some points have been raised so likely some changes need applying soon.     
-- Has some Unit Test coverage, could probably do with more.    
-- Some non-maths-y structures can be removed as they are now covered in dsHelper.    
-- haxelib needs updating soon.   
-- ga folder needs removing.  
-   
-   
+    
 ## hxTShopify
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
 Shopify, ideal for private applications, typedef for manipulating shopify stores via electron.  
