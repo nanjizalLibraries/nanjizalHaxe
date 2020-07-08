@@ -31,20 +31,30 @@ Shopify, ideal for private applications, typedef for manipulating shopify stores
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxTShopify/pages/) 
 
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+     
    
-   
-   
-## hxTShopify
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
-Shopify, ideal for private applications, typedef for manipulating shopify stores via electron.  
+# trilateral3
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/trilateral3/blob/master/LICENSE) [![Status: stable wip](https://img.shields.io/badge/status-stable%20wip-green.svg)]()[![Haxe Requirement: 4.2.1](https://https://img.shields.io/badge/Haxe%20Requirement-4.2.1-orange.svg)]()
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/trilateral3Dox.png" width="312" height="163"> 
+</p>
+</td></tr></table>
+Abstracted GL drawing engine, draws to Float32Array.    
+  
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/trilateral3/)
+[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/trilateral3/pages/) 
 
-[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/hxTShopify/)
-[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxTShopify/pages/)    
+<p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p>
+     
+     
+     
+        
   
-#### Status
- - The library is over a year old, without sponsorship I am unsure I can justify keeping it up to date with Shopify. Would be keen to work with Shopify dev to keep it a useful option, some of the official tools especially in js space are bloated.    
   
-<img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxTShopifyDox.png" width="624" height="325"> 
+  
+  
+  
   
 ## trilateral3  
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
