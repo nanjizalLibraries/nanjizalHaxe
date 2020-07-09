@@ -413,7 +413,8 @@ Port of triangulation library rather slow, has Rupert Algorithm.
 </td></tr></table>  
   
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/hxRectPack2D/blob/master/LICENSE)
-[![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)]()  
+[![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)](https://github.com/plepers/rectpack2D)  
+
 <table><tr><td>
 <p align="center">  
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/rectPack2dScreenshot.png" width="335" height="140">  
