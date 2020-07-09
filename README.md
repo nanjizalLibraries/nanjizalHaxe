@@ -75,7 +75,13 @@ Abstracted GL drawing engine, draws to Float32Array.
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
    
   
-## hxSpiro2020
+## hxSpiro2020  
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxSpiro2020dox.png" width="255" height="160">  
+</p>
+</td></tr></table>  
+  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/hxSpiro2020/blob/master/LICENSE)  [![Status: untested](https://img.shields.io/badge/status-untested-yellow.svg)](https://github.com/nanjizal/hxSpiro2020/) [![From Haxe: 4.2.1](https://img.shields.io/badge/From%20Haxe-4.2.1-orange.svg)](https://github.com/nanjizal/hxSpiro2020/)      
 [![port: javascript](https://img.shields.io/badge/port-javascript-red.svg)](https://github.com/be5invis/libspiro-js) [![port: c#](https://img.shields.io/badge/port-c%23-blue.svg)](https://github.com/wieslawsoltes/SpiroNet) 
 <table><tr><td>
