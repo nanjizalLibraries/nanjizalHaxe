@@ -110,7 +110,7 @@ Direct permission from Raph for my Haxe version to be MIT license.
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxDaedalusScreenShot.png" width="300" height="187">  
 </p>
 </td></tr></table>
-Port of pathfinding triangulation in cooperation with __azrafe7__ .
+Port of pathfinding triangulation in cooperation with <strong>azrafe7</strong> .
 <br>  
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/hxDaedalus)
