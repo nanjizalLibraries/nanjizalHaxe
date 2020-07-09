@@ -341,7 +341,10 @@ File and folder helpers for use with Haxe when processing images uses hxPixels a
 <p align="center">  
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/polyKdivtasticScreenshot.png" width="210" height="117">  
 </p>
-</td></tr></table> [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/hxPolyK/blob/master/LICENSE) [![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)]()  
+</td></tr></table>  
+
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/hxPolyK/blob/master/LICENSE)  [![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)]() 
+  
 <table><tr><td>
 <p align="center">  
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxPolyKDox.png" width="305" height="167">  
