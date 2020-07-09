@@ -19,7 +19,9 @@
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/geomDox.png" width="312" height="122">  
 </p>
 </td></tr></table>
-Matrices, Vectors.\
+Matrices, Vectors.  
+<p></p>  
+
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/geom/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/geom/pages/) [![link: haxelib](https://img.shields.io/badge/link-haxelib-EA8220.svg)](https://lib.haxe.org/p/geom/)  
   
