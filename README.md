@@ -412,10 +412,9 @@ XML parser ( to Linked List ), similar parse, faster access.
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="254" height="156">  
 </p>
 </td></tr></table>  
-Rough textField implementation for Kha could be abstracted to WebGL as works on character level includes wrapping and highlighting.
+Rough textField implementation for Kha could be abstracted to WebGL as works on character level includes wrapping and highlighting.  Unlikely to get documentation, potentially useful as a base for development of textfields when using WebGL/GL. 
     
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/simpleText)
-[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/simpleText/pages/index.html)
   
 [<-top](/README.md#nanjizal-libraries--)  
   
