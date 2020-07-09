@@ -256,7 +256,7 @@ Provides simple drawing abstraction over haxe toolkits include canvas, svg and p
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/pixelDrawing/blob/master/LICENSE) [![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)]()  
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="203" height="152">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/pixelDrawingDox.png" width="305" height="164">  
 </p>
 </td></tr></table>
 Provides simple approach to drawing with pixels uses hxPixels and Bresenham port.    
