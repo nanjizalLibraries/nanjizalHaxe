@@ -37,7 +37,7 @@ Matrices, Vectors.
 </p>
 </td></tr></table>
 Shopify, ideal for private applications, typedef for manipulating shopify stores via electron.    
-  
+<br>    
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/hxTShopify/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxTShopify/pages/) 
   
@@ -61,7 +61,7 @@ Shopify, ideal for private applications, typedef for manipulating shopify stores
 </p>
 </td></tr></table>  
 Abstracted GL drawing engine, draws to Float32Array.    
-  
+<br>    
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/trilateral3/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/trilateral3/pages/) 
 [![link: history](https://img.shields.io/badge/link-history-yellowgreen.svg)](https://trilateralx.github.io/TrilateralDemos/)
@@ -83,7 +83,7 @@ Abstracted GL drawing engine, draws to Float32Array.
 Port of Raph Levin *Spiro* curve drawing, my third iteration.  
 
 Direct permission from Raph for my Haxe version to be MIT license.   
-  
+<br>  
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/hxSpiro2020/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxSpiro2020/pages/) 
   
@@ -101,7 +101,7 @@ Direct permission from Raph for my Haxe version to be MIT license.
 </p>
 </td></tr></table>
 Port of pathfinding triangulation in cooperation with *azrafe7*.
-  
+<br>  
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/hxDaedalus)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://github.com/hxDaedalus/pages/) 
   
@@ -120,7 +120,7 @@ Port of pathfinding triangulation in cooperation with *azrafe7*.
 </td></tr></table>
 Port of Latitude & Longitude <> Ordnance Survey National
 Grid reference system.  
-  
+<br>  
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/latLongUK)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/latLongUK/pages/index.html) 
   
@@ -138,7 +138,7 @@ Grid reference system.
 </p>
 </td></tr></table>
 Port and rework of canvas perspective plane. 
-  
+<br>  
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/canvasImageTriangle)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/canvasImageTriangle/pages/index.html) 
   
@@ -156,7 +156,7 @@ Port and rework of canvas perspective plane.
 </p>
 </td></tr></table>
 WebGL/GL setup helpers, used by trilateral3 but decoupled.
-  
+<br>  
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/kitGL)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/kitGL/pages/index.html) 
 .  
@@ -174,7 +174,7 @@ WebGL/GL setup helpers, used by trilateral3 but decoupled.
 </p>
 </td></tr></table>
 Html haxe quick start helpers.
-
+<br>
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/htmlHelper)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/htmlHelper/pages/index.html) [![link: haxelib](https://img.shields.io/badge/link-haxelib-EA8220.svg)](https://lib.haxe.org/p/htmlHelper/)  
   
@@ -191,7 +191,7 @@ Html haxe quick start helpers.
 </p>
 </td></tr></table>
 Data structures used with Trilateral3, but decoupled.  
-   
+<br>   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/dsHelper)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/dsHelper/pages/index.html)
   
@@ -209,7 +209,7 @@ Data structures used with Trilateral3, but decoupled.
 </p>
 </td></tr></table>
 Port of fast decimial to fraction approximations with angle abstracts. Used by Trilateral3.
-  
+<br>  
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/fracs)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/fracs/pages/index.html)
   
@@ -226,7 +226,7 @@ Port of fast decimial to fraction approximations with angle abstracts. Used by T
 </p>
 </td></tr></table>
 Quick parsing of a string from an svg path. 
-  
+<br>  
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/justPath)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/justPath/pages/index.html)
   
@@ -243,7 +243,7 @@ Quick parsing of a string from an svg path.
 </p>
 </td></tr></table>
 Provides simple drawing abstraction over haxe toolkits include canvas, svg and pixel support.   
-  
+<br>  
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/justDrawing)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/justDrawing/pages/index.html)
   
@@ -260,7 +260,7 @@ Provides simple drawing abstraction over haxe toolkits include canvas, svg and p
 </p>
 </td></tr></table>
 Provides simple approach to drawing with pixels uses hxPixels and Bresenham port.    
-  
+<br>  
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/pixelDrawing)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/pixelDrawing/pages/index.html)
   
@@ -277,7 +277,7 @@ Provides simple approach to drawing with pixels uses hxPixels and Bresenham port
 </p>
 </td></tr></table>
 Color Pallette and ColorInt manipulator.    
-  
+<br>  
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/pallette)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/pallette/pages/index.html)
   
@@ -294,7 +294,7 @@ Color Pallette and ColorInt manipulator.
 </p>
 </td></tr></table>
 Jigsaw drawing engine
-  
+<br>  
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/jigsawX/)
   
 [<-top](/README.md#nanjizal-libraries--)  
@@ -310,7 +310,7 @@ Jigsaw drawing engine
 </p>
 </td></tr></table>
 Haxe Nodejs Tools for loading, saving and downloading files.  
-  
+<br>  
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/folderNode)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/folderNode/pages/index.html)
   
@@ -327,7 +327,7 @@ Haxe Nodejs Tools for loading, saving and downloading files.
 </p>
 </td></tr></table>  
 File and folder helpers for use with Haxe when processing images uses hxPixels and format.  
-    
+<br>    
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/folder)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/folder/pages/index.html)
   
@@ -342,7 +342,7 @@ File and folder helpers for use with Haxe when processing images uses hxPixels a
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/polyKdivtasticScreenshot.png" width="210" height="117">  
 </p>
 </td></tr></table>  
-
+<br>
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/hxPolyK/blob/master/LICENSE)  [![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)]() 
   
 <table><tr><td>
@@ -351,7 +351,7 @@ File and folder helpers for use with Haxe when processing images uses hxPixels a
 </p>
 </td></tr></table>  
 Port of triangulation library does not support holes. 
-
+<br>
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/hxPolyK)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxPolyK/doc/pages/index.html)
   
@@ -368,7 +368,7 @@ Port of triangulation library does not support holes.
 </p>
 </td></tr></table>  
 Port of triangulation library rather slow, has Rupert Algorithm.
-
+<br>
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/triangulations)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/triangulationsWebGLtest/doc/pages/index.html)
   
@@ -385,7 +385,7 @@ Port of triangulation library rather slow, has Rupert Algorithm.
 </p>
 </td></tr></table> 
 Port of lightweight Rectangle packer with TP support. 
-  
+<br>  
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/hxRectPack2D)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxRectPack2D/doc/pages/index.html)
   
@@ -402,7 +402,7 @@ Port of lightweight Rectangle packer with TP support.
 </p>
 </td></tr></table>  
 XML parser ( to Linked List ), similar parse, faster access.
-  
+<br>  
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/Nodule)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/Nodule/doc/pages/index.html)
   
