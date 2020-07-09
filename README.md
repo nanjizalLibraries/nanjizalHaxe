@@ -147,7 +147,7 @@ Grid reference system.
 [![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)](http://tulrich.com/geekstuff/canvas/perspective.html)  
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/canvasImageTriangleDocumentation.png" width="253" height="163">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/canvasImageTriangleDocumentation.png" width="290" height="186">  
 </p>
 </td></tr></table>
 Port and rework of canvas perspective plane. 
