@@ -439,11 +439,8 @@ Port of lightweight Rectangle packer with TP support.
   
 ## nodule
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/nodule/blob/master/LICENSE)
-<table><tr><td>
-<p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/seperator.png" width="309" height="156">  
-</p>
-</td></tr></table>  
+  
+  
 XML parser ( to Linked List ), similar parse, faster access.
 <br>  
   
