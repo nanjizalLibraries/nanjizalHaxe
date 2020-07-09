@@ -3,7 +3,7 @@
 [<img width="180" align="left" alt="jlmansismall3" src="https://user-images.githubusercontent.com/20134338/49196601-742a6180-f383-11e8-9394-3779f263d8d7.png">]() 
 # Nanjizal Libraries [->](https://nanjizallibraries.github.io/nanjizalHaxe/index.html) 
 
-[geom](/README.md#geom),  [hxTShopify](/README.md#hxtshopify),  [trilateral3](/README.md#trilateral3),  [hxSpiro2020](/README.md#hxspiro2020),  [hxDaedalus](/README.md#hxdaedalus),  [latLongUK](/README.md#latlonguk),  [canvasImageTriangles](/README.md#canvasimagetriangles),  [kitGL](/README.md#kitgl),  [htmlHelper](/README.md#htmlhelper),  [dsHelper](/README.md#dshelper),  [fracs](/README.md#fracs),  [justPath](/README.md#justpath),  [justDrawing](/README.md#justdrawing), [pixelDrawing](/README.md#pixeldrawing),  [pallette](/README.md#pallette),  [jigsawX](/README.md#jigsawx),  [folderNode](/README.md#foldernode),  [folder](/README.md#folder),  [hxPolyK](/README.md#hxpolyk),  [triangulations](/README.md#triangulations),  [hxRectPack2D](/README.md#hxrectpack2d),  [nodule](/README.md#nodule), [simpleText](/README.md#simpletext).  
+[geom](/README.md#geom),  [hxTShopify](/README.md#hxtshopify),  [trilateral3](/README.md#trilateral3),  [hxSpiro2020](/README.md#hxspiro2020),  [hxDaedalus](/README.md#hxdaedalus),  [latLongUK](/README.md#latlonguk),  [canvasImageTriangle](/README.md#canvasimagetriangles),  [kitGL](/README.md#kitgl),  [htmlHelper](/README.md#htmlhelper),  [dsHelper](/README.md#dshelper),  [fracs](/README.md#fracs),  [justPath](/README.md#justpath),  [justDrawing](/README.md#justdrawing), [pixelDrawing](/README.md#pixeldrawing),  [pallette](/README.md#pallette),  [jigsawX](/README.md#jigsawx),  [folderNode](/README.md#foldernode),  [folder](/README.md#folder),  [hxPolyK](/README.md#hxpolyk),  [triangulations](/README.md#triangulations),  [hxRectPack2D](/README.md#hxrectpack2d),  [nodule](/README.md#nodule), [simpleText](/README.md#simpletext).  
   
   
   
@@ -135,12 +135,19 @@ Grid reference system.
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
    
   
-## canvasImageTriangles
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/canvasImageTriangles/blob/master/LICENSE)  
-[![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)](http://tulrich.com/geekstuff/canvas/perspective.html)  
+## canvasImageTriangle
 <table><tr><td>
 <p align="center">  
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/canvasImageTriangleDox.png" width="212" height="152">  
+</p>
+</td></tr></table>  
+  
+  
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/canvasImageTriangle/blob/master/LICENSE)  
+[![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)](http://tulrich.com/geekstuff/canvas/perspective.html)  
+<table><tr><td>
+<p align="center">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/canvasImageTriangleDocumentation.png" width="253" height="163">  
 </p>
 </td></tr></table>
 Port and rework of canvas perspective plane. 
