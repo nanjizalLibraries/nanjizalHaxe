@@ -405,21 +405,21 @@ Port of triangulation library rather slow, has Rupert Algorithm.
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
    
   
-## hxRectPack2D
+## hxRectPack2D  
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxRectPack2Ddox.png" width="254" height="163">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/rectPack2dScreenshot.png" width="335" height="140">  
 </p>
-</td></tr></table>  
+</td></tr></table>   
   
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/hxRectPack2D/blob/master/LICENSE)
 [![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)](https://github.com/plepers/rectpack2D)  
 
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/rectPack2dScreenshot.png" width="335" height="140">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxRectPack2Ddox.png" width="254" height="163">  
 </p>
-</td></tr></table> 
+</td></tr></table>  
 Port of lightweight Rectangle packer with TP support. 
 <br>  
   
