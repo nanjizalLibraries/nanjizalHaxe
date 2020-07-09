@@ -233,7 +233,7 @@ Port of fast decimial to fraction approximations with angle abstracts. Used by T
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/justPath/blob/master/LICENSE)
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="203" height="152">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/SvgPathDox.png" width="305" height="167">  
 </p>
 </td></tr></table>
 Quick parsing of a string from an svg path. 
