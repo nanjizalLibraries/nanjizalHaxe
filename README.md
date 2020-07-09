@@ -215,7 +215,7 @@ Data structures used with Trilateral3, but decoupled.
 [![port: javascript](https://img.shields.io/badge/port-javascript-yellow.svg)](http://www.mindspring.com/~alanh/fracs.html)  
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="203" height="152">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/fracsDox.png" width="240" height="168">  
 </p>
 </td></tr></table>
 Port of fast decimial to fraction approximations with angle abstracts. Used by Trilateral3.
