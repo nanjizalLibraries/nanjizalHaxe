@@ -323,7 +323,7 @@ Haxe Nodejs Tools for loading, saving and downloading files.
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/folder/blob/master/LICENSE)
 <table><tr><td>
 <p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="254" height="156">  
+   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/folderDox.png" width="305" height="115">  
 </p>
 </td></tr></table>  
 File and folder helpers for use with Haxe when processing images uses hxPixels and format.  
