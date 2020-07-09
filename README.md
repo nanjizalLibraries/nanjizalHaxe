@@ -37,9 +37,9 @@ Matrices, Vectors.
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxTShopifyDox.png" width="312" height="162">  
 </p>
 </td></tr></table>
-Shopify, ideal for private applications, typedef for manipulating shopify stores via electron.    
-<br>  
-  
+Shopify, ideal for private applications, typedef for manipulating shopify stores via electron.  
+<p></p>  
+
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/hxTShopify/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxTShopify/pages/) 
   
@@ -62,9 +62,9 @@ Shopify, ideal for private applications, typedef for manipulating shopify stores
    <img src="https://nanjizallibraries.github.io/nanjizalHaxe/trilateral3Dox.png" width="312" height="163"> 
 </p>
 </td></tr></table>  
-Abstracted GL drawing engine, draws to Float32Array.    
-<br>  
-  
+Abstracted GL drawing engine, draws to Float32Array.  
+<p></p>  
+
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/trilateral3/)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/trilateral3/pages/) 
 [![link: history](https://img.shields.io/badge/link-history-yellowgreen.svg)](https://trilateralx.github.io/TrilateralDemos/)
