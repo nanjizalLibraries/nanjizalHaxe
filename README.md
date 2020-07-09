@@ -159,8 +159,8 @@ WebGL/GL setup helpers, used by trilateral3 but decoupled.
   
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://www.github.com/nanjizal/kitGL)
 [![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/kitGL/pages/index.html) 
-  
-  
+.  
+.  
 [<-top](/README.md#nanjizal-libraries--)  
   
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
