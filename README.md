@@ -262,11 +262,7 @@ Quick parsing of a string from an svg path.
   
 ## justDrawing
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://https://nanjizal.github.io/justDrawing/blob/master/LICENSE)
-<table><tr><td>
-<p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="203" height="152">  
-</p>
-</td></tr></table>
+<p></p>
 Provides simple drawing abstraction over haxe toolkits include canvas, svg and pixel support.  
 <p></p>  
 
