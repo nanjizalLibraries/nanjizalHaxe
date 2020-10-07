@@ -3,7 +3,7 @@
 [<img width="180" align="left" alt="jlmansismall3" src="https://user-images.githubusercontent.com/20134338/49196601-742a6180-f383-11e8-9394-3779f263d8d7.png">]() 
 # Nanjizal Libraries [->](https://nanjizallibraries.github.io/nanjizalHaxe/index.html) 
 
-[geom](/README.md#geom),  [hxTShopify](/README.md#hxtshopify),  [trilateral3](/README.md#trilateral3),  [hxSpiro2020](/README.md#hxspiro2020),  [hxDaedalus](/README.md#hxdaedalus),  [latLongUK](/README.md#latlonguk),  [canvasImageTriangle](/README.md#canvasimagetriangles),  [kitGL](/README.md#kitgl),  [htmlHelper](/README.md#htmlhelper),  [dsHelper](/README.md#dshelper),  [fracs](/README.md#fracs),  [justPath](/README.md#justpath),  [justDrawing](/README.md#justdrawing), [pixelDrawing](/README.md#pixeldrawing),  [pallette](/README.md#pallette),  [jigsawX](/README.md#jigsawx),  [folderNode](/README.md#foldernode),  [folder](/README.md#folder),  [hxPolyK](/README.md#hxpolyk),  [triangulations](/README.md#triangulations),  [hxRectPack2D](/README.md#hxrectpack2d),  [nodule](/README.md#nodule), [simpleText](/README.md#simpletext).  
+[geom](/README.md#geom),  [hxTShopify](/README.md#hxtshopify),  [trilateral3](/README.md#trilateral3),  [hxSpiro](/README.md#hxspiro),  [hxDaedalus](/README.md#hxdaedalus),  [latLongUK](/README.md#latlonguk),  [canvasImageTriangle](/README.md#canvasimagetriangles),  [kitGL](/README.md#kitgl),  [htmlHelper](/README.md#htmlhelper),  [dsHelper](/README.md#dshelper),  [fracs](/README.md#fracs),  [justPath](/README.md#justpath),  [justDrawing](/README.md#justdrawing), [pixelDrawing](/README.md#pixeldrawing),  [pallette](/README.md#pallette),  [jigsawX](/README.md#jigsawx),  [folderNode](/README.md#foldernode),  [folder](/README.md#folder),  [hxPolyK](/README.md#hxpolyk),  [triangulations](/README.md#triangulations),  [hxRectPack2D](/README.md#hxrectpack2d),  [nodule](/README.md#nodule), [simpleText](/README.md#simpletext).  
   
   
   
@@ -88,8 +88,7 @@ Abstracted GL drawing engine, draws to Float32Array.
 <p>Direct permission from Raph for my Haxe version to be MIT license, but then realized it was based more on the GPL version so I have removed the hxSpiro2019/hxSpiro2020. Maybe I will get round to re-porting the code direct from Raph's repository another time.</p>   
 <p></p>  
 
-[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/hxSpiro2020/)
-[![link: documentation](https://img.shields.io/badge/link-documentation-blue.svg)](https://nanjizal.github.io/hxSpiro2020/pages/) 
+[![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/hxSpiro/)
   
 [<-top](/README.md#nanjizal-libraries--)  
   
