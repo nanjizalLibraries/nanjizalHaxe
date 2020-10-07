@@ -75,14 +75,9 @@ Abstracted GL drawing engine, draws to Float32Array.
 <p align="center"><img src="https://nanjizallibraries.github.io/nanjizalHaxe/separator.png" width="110%" height="5"></p> 
    
   
-## hxSpiro2020  
-<table><tr><td>
-<p align="center">  
-   <img src="https://nanjizallibraries.github.io/nanjizalHaxe/hxSpiro2020dox.png" width="255" height="160">  
-</p>
-</td></tr></table>  
+## hxSpiro
   
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nanjizal/hxSpiro2020/blob/master/LICENSE)  [![Status: untested](https://img.shields.io/badge/status-untested-yellow.svg)](https://github.com/nanjizal/hxSpiro2020/) [![From Haxe: 4.2.1](https://img.shields.io/badge/From%20Haxe-4.2.1-orange.svg)](https://github.com/nanjizal/hxSpiro2020/)      
+[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](https://github.com/nanjizal/hxSpiro/blob/master/LICENSE)
 [![port: javascript](https://img.shields.io/badge/port-javascript-red.svg)](https://github.com/be5invis/libspiro-js) [![port: c#](https://img.shields.io/badge/port-c%23-blue.svg)](https://github.com/wieslawsoltes/SpiroNet) 
 <table><tr><td>
 <p align="center">  
@@ -90,7 +85,7 @@ Abstracted GL drawing engine, draws to Float32Array.
 </p>
 </td></tr></table>
 <p>Port of Raph Levin *Spiro* curve drawing, my third iteration.</p>  
-<p>Direct permission from Raph for my Haxe version to be MIT license.</p>   
+<p>Direct permission from Raph for my Haxe version to be MIT license, but then realized it was based more on the GPL version so I have removed the hxSpiro2019/hxSpiro2020. Maybe I will get round to re-porting the code direct from Raph's repository another time.</p>   
 <p></p>  
 
 [![link: source code](https://img.shields.io/badge/link-source%20code-green.svg)](https://github.com/nanjizal/hxSpiro2020/)
